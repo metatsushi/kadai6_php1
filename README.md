@@ -19,15 +19,15 @@
 - DBの構造や、フロントからサーバー側へのデータ受け渡し→戻しなどの構造がなんとなくわかってきた。
 - JSの記述方法が少しづつこなれてきた。（forEach, mapなどがようやく実践で使えるようになり簡潔に書けるようになってきた
 - 入力したデータをPHP上でjexcelを使って表形式で表示したかったが、結局Table形式に置き換えないとjexcelで使えなさそうだったので、時間切れだったが、頑張って土曜日の講義までに一通り仕上げた！
-- 
+
 ## ⑤参考にしたサイト
--　　　jexcel（JSで動くEXCEL風ライブラリ）
-https://paiza.hatenablog.com/entry/2020/06/10/JavaScript%E3%81%A0%E3%81%91%E3%81%A7Excel%E9%A2%A8%E3%81%AE%E3%82%B9%E3%83%97%E3%83%AC%E3%83%83%E3%83%89%E3%82%B7%E3%83%BC%E3%83%88%E3%82%92%E9%96%8B%E7%99%BA%E3%81%A7%E3%81%8D%E3%82%8B%E3%80%8CjExcel
+- jexcel（JSで動くEXCEL風ライブラリ
+- https://paiza.hatenablog.com/entry/2020/06/10/JavaScript%E3%81%A0%E3%81%91%E3%81%A7Excel%E9%A2%A8%E3%81%AE%E3%82%B9%E3%83%97%E3%83%AC%E3%83%83%E3%83%89%E3%82%B7%E3%83%BC%E3%83%88%E3%82%92%E9%96%8B%E7%99%BA%E3%81%A7%E3%81%8D%E3%82%8B%E3%80%8CjExcel
 
 - 配列内の要素の並べ替え
 - https://keizokuma.com/javascript-array-sort/ 
 - オブジェクト内の要素の並べ替え
 - https://keizokuma.com/js-array-object-sort/
 
--　Chart.jsによる円グラフの描画 
+- Chart.jsによる円グラフの描画 
 - https://codelikes.com/chart-js-doughnut-pie/
